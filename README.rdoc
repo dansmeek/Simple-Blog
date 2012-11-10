@@ -1,4 +1,4 @@
-== This is nothing special ==                      
+== This is nothing special                     
 Features:                                          
 * No administration Panel                          
 * No SSH                                           
@@ -11,3 +11,18 @@ Features:
                                                    
 * you can make this file by using generating contro
 * as i said nothing special                        
+
+You could probably make this by doing something like
+
+rails new blog
+rails g scaffold post
+rails g scaffold comment
+rails g controller home
+
+adding the comment belongs to post, post has many comments and then "rake db:migrate"
+
+then just delete all the stuff you dont need, and reformat the rest, and some minor other stuff.
+
+10 minutes tops.
+
+why do i have this up here?
