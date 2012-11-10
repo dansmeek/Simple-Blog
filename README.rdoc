@@ -4,13 +4,13 @@ Features:
 
 You could probably make this by doing something like
 
-*rails new blog
+- rails new blog
 
-*rails g scaffold post
+- rails g scaffold post
 
-*rails g scaffold comment
+- rails g scaffold comment
 
-*rails g controller home
+- rails g controller home
 
 adding the comment belongs to post, post has many comments and then "rake db:migrate"
 
