@@ -1,16 +1,6 @@
 == This is nothing special                     
 Features:                                          
-* No administration Panel                          
-* No SSH                                           
-* No SHA Encyption                                 
-* No CSS (or Minimal if that)                      
-                                                   
-* A Post Controller                                
-* A Comment Controller                             
-* AND THATS IT!!!!!!                               
-                                                   
-* you can make this file by using generating contro
-* as i said nothing special                        
+* a blog                     
 
 You could probably make this by doing something like
 
